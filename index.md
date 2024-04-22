@@ -3,7 +3,27 @@
 ## Header 1-b
 # Header 2
 
+# Add links
 [let's google](https://www.google.be/)
 
-add an image
+
 ![image of yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+
+# Add codeblocks
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
+``` csharp
+public void DoSomething()
+{
+  var todo = "";
+}
+```
