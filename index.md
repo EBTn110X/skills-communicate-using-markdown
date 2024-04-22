@@ -3,6 +3,17 @@
 ## Header 1-b
 # Header 2
 
+
+# Add task lists
+[x] checked - this does not work  
+[ ]  unchecked - this does not work either  
+
+- [x] checked - this works
+- [ ] unchecked - this works as well
+
+Remember: task lists start with a -
+
+
 # Add links
 [let's google](https://www.google.be/)
 
@@ -27,3 +38,4 @@ public void DoSomething()
   var todo = "";
 }
 ```
+
